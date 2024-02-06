@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-view/static/css/main.15050f10.css",
+    "main.js": "/crypto-view/static/js/main.1ff53780.js",
+    "static/media/wave.svg": "/crypto-view/static/media/wave.5002a8c0fe2c7c5defc6.svg",
+    "index.html": "/crypto-view/index.html",
+    "main.15050f10.css.map": "/crypto-view/static/css/main.15050f10.css.map",
+    "main.1ff53780.js.map": "/crypto-view/static/js/main.1ff53780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15050f10.css",
+    "static/js/main.1ff53780.js"
+  ]
+}
